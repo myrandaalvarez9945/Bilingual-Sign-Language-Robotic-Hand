@@ -12,7 +12,7 @@ mp_drawing = mp.solutions.drawing_utils
 classes = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 
            'Yes', 'No', 'I Love You']
 images_per_session = 117
-max_images_per_class = 3500
+max_images_per_class = 3510
 
 # Directory setup
 dataset_path = 'ASL_Dataset'
